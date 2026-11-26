@@ -76,7 +76,7 @@ Client ──▶ Nginx (:80/:443) ──▶ Agent (:8000, network: internal) ─
 
 ### Exercise 3.2: Deploy lên Render (agent Part 6)
 
-- **Public URL:** `<ĐIỀN_URL_RENDER_SAU_KHI_DEPLOY>` (chi tiết xem [DEPLOYMENT.md](DEPLOYMENT.md))
+- **Public URL:** `https://ai-agent-production-t8p2.onrender.com` (chi tiết xem [DEPLOYMENT.md](DEPLOYMENT.md))
 - **Screenshots:** `screenshots/dashboard.png`, `screenshots/running.png`, `screenshots/test.png`
 
 ### So sánh `railway.toml` và `render.yaml`
